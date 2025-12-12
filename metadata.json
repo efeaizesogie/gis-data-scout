@@ -1,0 +1,5 @@
+{
+  "name": "GIS Data Scout",
+  "description": "An intelligent assistant for GIS analysts to rapidly source, validate, and access accurate geospatial datasets for any location and topic.",
+  "requestFramePermissions": []
+}
